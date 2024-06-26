@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receiving-Weight-CAS-CI-200", "Receiving-Weight-CAS-CI-200.csproj", "{ABCC8B12-15ED-4AC1-8648-8B862C9AC8A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABCC8B12-15ED-4AC1-8648-8B862C9AC8A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCC8B12-15ED-4AC1-8648-8B862C9AC8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCC8B12-15ED-4AC1-8648-8B862C9AC8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCC8B12-15ED-4AC1-8648-8B862C9AC8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B6677ED-A2F8-42C8-9602-CEE5A6C8AC9B}
+	EndGlobalSection
+EndGlobal
